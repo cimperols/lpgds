@@ -1,0 +1,95 @@
+{
+  "lieux": [
+    {
+      "nom": "Babylone, Irak",
+      "description_atmospherique": "Ruines millénaires ensablées, colonnes de briques cuites brisées, désert infini balayé par un vent chargé de secrets historiques poussiéreux.",
+      "conditions_climatiques": "Nuit noire à 4h14, vent du désert sec et froid, lune en pâle faucille suspendue.",
+      "palette_couleurs": [
+        "Noir d'ébène",
+        "Or de la lune",
+        "Sable ocre",
+        "Terre d'ombre"
+      ],
+      "niveau_danger_tension": "HAUT - Présence de mercenaires infiltrés et traque mortelle au milieu des tombes.",
+      "moments_action": "Découverte de la tablette d'argile par le Pr. Elijah Shepherd, suivi immédiatement de son meurtre dans son campement dévasté."
+    },
+    {
+      "nom": "Université de Princeton, USA",
+      "description_atmospherique": "Département de mathématiques, campus d'architecture gothique enveloppé de silence monacal, bureaux feutrés de bois sombre et lumière bleutée d'écrans.",
+      "conditions_climatiques": "21h21 heure de N.Y., pluie battante et froide sur les vitres, atmosphère de tempête.",
+      "palette_couleurs": [
+        "Teal (écrans)",
+        "Gris ardoise (pluie)",
+        "Brun acajou (boiseries)",
+        "Bleu électrique (confinement)"
+      ],
+      "niveau_danger_tension": "CRITIQUE - Ennemis armés infiltrant les couloirs, traque silencieuse.",
+      "moments_action": "Rébecca reçoit le colis de son père, son bureau est forcé par des tueurs de Burke, elle s'enfuit par une porte secrète de la bibliothèque."
+    },
+    {
+      "nom": "Tunnels du CERN, Genève (Suisse)",
+      "description_atmospherique": "Infrastructures souterraines du SPS/LHC, kilomètres de tubes en acier rutilants, aimants cryogéniques bleus géants, sifflement de l'hélium sous pression.",
+      "conditions_climatiques": "Froid industriel contrôlé, alarmes de confinement clignotant rouge vif, buée cryogénique.",
+      "palette_couleurs": [
+        "Bleu industriel",
+        "Rouge d'alarme",
+        "Blanc de buée d'hélium",
+        "Gris titane"
+      ],
+      "niveau_danger_tension": "EXTRÊME - Risque d'explosion subatomique et d'asphyxie par hélium liquide.",
+      "moments_action": "Piratage du confinement magnétique, Keller intercepte le cheval de Troie de Burke, évacuation d'urgence sous pression."
+    },
+    {
+      "nom": "Fosse de la Romanche, Océan Atlantique",
+      "description_atmospherique": "Abysses marins à 7 700 mètres de profondeur, obscurité totale, pression gigantesque du fond de l'océan, sédiments troubles remués par les hélices de drones.",
+      "conditions_climatiques": "Froid glacial des profondeurs, absence totale de lumière naturelle, courants marins puissants.",
+      "palette_couleurs": [
+        "Noir d'encre",
+        "Bleu marine profond",
+        "Blanc chirurgical (projecteurs du ROV)",
+        "Vert bioluminescent"
+      ],
+      "niveau_danger_tension": "HAUT - Pression destructive, attaque de drones sous-marins hostiles.",
+      "moments_action": "Pilotage du ROV Orphée, combat contre les drones 'Mégalodons' ennemis, inversion électromagnétique du câble 'Amitié' pour repousser la peste bactérienne de l'acier."
+    },
+    {
+      "nom": "Champs Phlégréens, Naples (Italie)",
+      "description_atmospherique": "Supervolcan actif, fumerolles de soufre âcres s'élevant de failles terrestres, puits de forage géothermiques profonds et vibrants de magma.",
+      "conditions_climatiques": "Ciel de cendre lourd, pluie acide, vibrations sismiques constantes sous les pieds.",
+      "palette_couleurs": [
+        "Orange lave",
+        "Jaune soufre",
+        "Gris de cendre volcanique",
+        "Noir d'obsidienne"
+      ],
+      "niveau_danger_tension": "APOCALYPTIQUE - Risque d'éruption cataclysmique et d'hiver volcanique mondial.",
+      "moments_action": "Infiltration des 11 puits de forage sous le black-out de Keller, gèlement des résonateurs de Burke au plasma et coupe cryogénique des câbles."
+    },
+    {
+      "nom": "Bunker Projet Arca, Svalbard (Norvège)",
+      "description_atmospherique": "Forteresse de béton et de glace enfouie sous le pergélisol de l'Arctique, à côté de la réserve mondiale de semences, couloirs gelés hautement technologiques.",
+      "conditions_climatiques": "Tempête de neige polaire dehors par -35°C, aurores boréales vertes dansant dans le ciel sombre.",
+      "palette_couleurs": [
+        "Cyan (glace)",
+        "Gris béton brut",
+        "Vert aurore boréale",
+        "Blanc de neige"
+      ],
+      "niveau_danger_tension": "CRITIQUE - Température mortelle, systèmes de défense cryogéniques et radioactifs.",
+      "moments_action": "Opération Icebreaker, assaut du bunker souterrain de Burke, Thomas Blackwood se sacrifie en retenant un mur de glace pour sauver l'équipe fuyant avec le disque dur."
+    },
+    {
+      "nom": "Esplanade des Mosquées, Jérusalem",
+      "description_atmospherique": "Esplanade sacrée de pierre dorée millénaire, Dôme du Rocher resplendissant sous le soleil, carrefour mystique et géomagnétique mondial.",
+      "conditions_climatiques": "Midi pile le 21 mars, soleil éclatant se reflétant sur la coupole d'or, atmosphère chargée d'électricité géomagnétique.",
+      "palette_couleurs": [
+        "Or étincelant",
+        "Blanc de calcaire ancien",
+        "Bleu azur du ciel",
+        "Lumière pure (nova)"
+      ],
+      "niveau_danger_tension": "MAXIMAL - Lancement de l'antimatière orbitale, destin final de l'humanité en jeu.",
+      "moments_action": "Rébecca pose le médaillon de Nabonide sur la Pierre Angulaire, canalise la résonance de Schumann à 7,83 Hz pour neutraliser Genesis-12, transformant l'arme en nova lumineuse."
+    }
+  ]
+}

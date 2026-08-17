@@ -1,0 +1,53 @@
+============================================================
+PROMPTS VIDÉO OPTIMISÉS POUR VEO 3.1 (AVEC DIRECTIVES AUDIO)
+============================================================
+
+Veo 3.1 est optimisé pour les plans de paysages très détaillés, les mouvements de caméra lents et atmosphériques, et l'intégration d'un environnement sonore natif de haute qualité.
+
+---
+
+S01_VEO | L'Ouverture Cosmique de Babylone (Audio Inclus)
+------------------------------------------------------------
+[CINEMATOGRAPHY]: Slow crane shot rising above ancient brick stone ruins in the Iraqi desert, moving from low angle to high wide aerial perspective.
+[SUBJECT]: The archaeological site of Babylon at night under a giant pale crescent moon, dust and sand blowing slowly over broken pillars.
+[ACTION]: In a deep dark trench, a circular clay tablet with golden concentric cuneiform inscriptions pulses with a faint, warm divine light.
+[STYLE]: Epic cinematic, volumetric moonlight, anamorphic lens flare, photorealistic 4K HDR.
+[AMBIANCE]: Ancient, desolated, mysterious and holy.
+[AUDIO]: Howling desert wind, whispers of ancient languages, deep bass drone (Braam) at the end.
+[NEGATIVE]: no voiceover, no text, no modern elements.
+
+---
+
+S02_VEO | La Chute des Abeilles en Californie (Audio Inclus)
+------------------------------------------------------------
+[CINEMATOGRAPHY]: Steady camera macro tracking shot, shallow depth of field.
+[SUBJECT]: A massive swarm of golden honeybees flying through a sunlit almond orchard in California.
+[ACTION]: The bees are flying erratically. Ethereal, translucent concentric ripples of blue and orange soundwaves vibrate through the sunbeams, representing acoustic interference.
+[STYLE]: Cinematic warm colors, high-speed camera rendering, crystalline 4K.
+[AMBIANCE]: Organic, chaotic, high-pitched vibrational frequency.
+[AUDIO]: Thousands of bees buzzing, low humming acoustic vibration generator, sudden static interference sound.
+[NEGATIVE]: no humans, no text overlays, no cheap 3D render.
+
+---
+
+S03_VEO | Le Glacier du Jugement Dernier (Audio Inclus)
+------------------------------------------------------------
+[CINEMATOGRAPHY]: Immersive slow dolly forward, underwater to half-submerged camera view.
+[SUBJECT]: The deep frozen ice caves below the Thwaites Glacier in Antarctica.
+[ACTION]: Glowing orange-red high-tech isotope drills are melting holes in the dark blue ice cliffs. A remotely operated submarine (ROV Styx) with bright white searchlights moves through the bubbles.
+[STYLE]: Cold cyan and deep blue color grading, realistic water physics, high detail 4K.
+[AMBIANCE]: Claustrophobic, frozen tension, massive scale.
+[AUDIO]: Deep groan of cracking polar ice, underwater bubbles, high-tech engine hum of the ROV, heavy metallic clank.
+[NEGATIVE]: no text overlays, no cartoon, no bright sun.
+
+---
+
+S04_VEO | Le Climax de Jérusalem (Audio Inclus)
+------------------------------------------------------------
+[CINEMATOGRAPHY]: Symmetric wide static shot, perfectly centered.
+[SUBJECT]: The Dome of the Rock in Jerusalem bathed in a blinding golden morning sunset.
+[ACTION]: From the sacred stone courtyard, a vertical pillar of blinding white diamond light shoots straight into the heavens, parting the dark storm clouds in a ring of energy. The beam converts into a silent, sparkling nova flower of pure light.
+[STYLE]: Biblical majesty, divine reveal, breathtaking photorealistic render, 4K HDR.
+[AMBIANCE]: Glorious, triumphant, cosmic balance restored.
+[AUDIO]: Majestic cathedral brass choir (epic crescendo), thunderous geomagnetic resonance hum, followed by crystalline wind chimes and absolute silence.
+[NEGATIVE]: no text, no watermarks, no crowds.
